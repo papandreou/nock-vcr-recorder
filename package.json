@@ -1,5 +1,5 @@
 {
-  "name": "nock-vcr-recorder",
+  "name": "nock-vcr-recorder-papandreou",
   "version": "0.1.5",
   "description": "A test framework agnostic vcr implementation that uses nock.",
   "main": "lib/vcr.js",
